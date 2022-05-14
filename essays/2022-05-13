@@ -1,0 +1,45 @@
+---
+layout: essay
+type: essay
+title: Reflecting on Assignment 3
+date: 2022-05-04
+labels:
+  - MIS 
+  - Assignment 3
+---
+
+<strong>Briefly describe your system (e.g. A store selling Pokemon game cards)</strong><br>
+I created a store that sells K-Pop albums for different K-Pop groups such as BTS, Blackpink, Itzy, and TXT. 
+
+<strong>Any notable shortcomings, bugs, problems, or additional features not implemented?</strong><br>
+I wasn't able to finish assignment 3 so I have multiple shortcomings, problems, and additional features not implemented. I only got up to the part where the quantities from my product pages are transferred into the console on the browser. 
+
+<strong>Describe what you are most proud of about your system:</strong><br>
+Although it isn't implemented fully, I am most proud of my partial IR4 and that it highlights and unhighlights. I am also proud of being able to fix all of my problems from Assignment 2. 
+
+<strong>Describe what you are least happy with your system:</strong><br>
+I am least happy with the fact that I wasn't able to finish the assignment and that I had a layout of how I wanted my website to function in my head but I wasn't able to fully process it and put it into code. 
+
+<strong>How was developing this assignment different than assignment #2?</strong><br>
+I actually think this assignment was a lot harder than assignment 2. This is probably due to the fact that although I understood the individual concepts and how they work, I didn't understand how everything was supposed to fit together as a whole. 
+
+<strong>When you ran into a problem, what did you do to address it?</strong><br>
+When I ran into a problem, I tried to rewrite my code in different ways. However, if I tried multiple times on my own and it still didn't work, I asked Professor Port. 
+
+<strong>Describe what worked well in doing this assignment?</strong><br>
+I think implementing the code examples worked well for me because I was able to use the code examples to get my navigation bar working.
+
+<strong>Describe what did not work well in doing this assignment?</strong><br>
+In terms of the things that did not work well was trying to implement the cookie and getting the quantities from my product pages to save in the session and transfer over to my cart. 
+
+<strong>What did you learn from doing this assignment?<strong><br>
+I learned that we didn't have to load the products_data.json file as a script source because we were using the loadJSON to do so.  
+
+<strong>If you could go back in time and do things differently, what would you change?</strong><br>
+If I could go back in time, I would see Professor Port immediately as soon as I didn't understand something throughout the semester. Being unable to understand some of the concepts really came to bite me in this assignment. 
+
+<strong>Estimate the % of time you spent (a) thinking about how to do something, (b) writing code (but do not include testing, (c) testing and debugging</strong><br>
+For what I was able to get done, I spent about 20% thinking, 40% writing code, and 40% debugging.
+
+<strong>Assign an estimated percentage on the amount each team member contributed to the assignment (including yourself) and explain briefly your rationale for the percentage breakdown. Be sure to include an overview of what specifically you and your partners contributed (e.g. “I worked on the security and my partner 1 worked on personalization”)</strong><br>
+I did not work with a partner for this assignment. 
